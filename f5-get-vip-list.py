@@ -106,7 +106,7 @@ def main():
     """
     username = "admin"
     password = "password"
-    file_path = "vip_details.txt"
+    file_path = "vip-details.txt"
 
     try:
         auth_token = authenticate(username, password)
