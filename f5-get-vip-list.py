@@ -3,7 +3,7 @@ import requests
 
 urllib3.disable_warnings()
 
-TARGET_URL = "https://ngf5p7.ngdata.no"
+TARGET_URL = "https://bigip.f5.com"
 
 def authenticate(username, password):
     """
